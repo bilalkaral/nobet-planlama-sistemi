@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.log
+
+# Excel ciktilari / gercek veriler (kisisel veri - repoya koyma)
+*.xlsx
+*.xls
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
